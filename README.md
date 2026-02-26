@@ -1,0 +1,1 @@
+# nordic-project-template
