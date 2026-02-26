@@ -1,3 +1,16 @@
+application/build/
+application/doc/html/
+application/doc/latex/
+bootloader/
+mbedtls/
+modules/
+nrf/
+nrfxlib/
+zephyr/
+.west/
+.vscode/.cortex-debug.peripherals.state.json
+.vscode/.cortex-debug.registers.state.json
+
 # Prerequisites
 *.d
 
